@@ -1,0 +1,103 @@
+body {
+
+	background-color: black;
+}
+
+.floatclear {
+	
+	clear: both;
+}
+
+
+#banner {
+
+	background: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+	width: 100%;
+	margin: left: 15px;
+	margin: right: 15px;
+	margin: top: 15px;
+	
+}
+
+#Bannerpic1 {
+    float: right;
+    padding: 5px;
+    box-shadow: 1px 1px 1px 1px;
+    
+}
+
+
+
+#FavPic {
+	border-style: outset;
+	padding: 10px;
+	border-color: #66FF66;
+	box-shadow: 5px 5px 5px #000099;
+	border-width: 10px;
+	width: 50%;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+	color: #000099;
+	text-decoration: underline;
+	text-shadow: 5px 5px 5px #800000;
+}
+
+h2 {
+	text-align: center;
+	color: red;
+	text-shadow: 5px 5px 5px #000099;
+}
+
+div {
+
+	text-align: center;
+}
+
+#w3-content {
+
+	text-align: center;
+	/*display: block;
+	 margin: auto;
+	 width: 600px;*/
+}
+
+a {
+
+	color: #66ff66;
+}
+
+ul {
+
+	color: #000099;
+}
+
+hr {
+
+	background-color: #000099;
+}
+
+p {
+	color: #66FF66;
+	text-align: center;
+}
+
+#Bannerpic1 {
+    float: right;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+}
+
+#Bannerpic2 {
+    float: left;
+    border: 1px dotted black;
+    margin: 0px 0px 15px 20px;
+}
+
+#Mybutton {
+	color: #66ff66;
+	border-radius: 8px;
+	
+}
